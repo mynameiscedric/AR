@@ -1,0 +1,470 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl default
+Kd 0.501961 0.501961 0.501961
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl _8
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd _8.jpg
+
+newmtl textur
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd textur.jpg
+
+newmtl _2
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd _2.jpg
+
+newmtl _5
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd _5.jpg
+
+newmtl turm_unt
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd turm_unt.jpg
+
+newmtl turm_u00
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd turm_u00.jpg
+
+newmtl seite00
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd seite00.jpg
+
+newmtl back_sei
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd back_sei.jpg
+
+newmtl tex31559
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31559.png
+
+newmtl tex31500
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31500.png
+
+newmtl tex31501
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31501.png
+
+newmtl tex31502
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31502.png
+
+newmtl tex31503
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31503.png
+
+newmtl tex31504
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31504.png
+
+newmtl tex31505
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31505.png
+
+newmtl tex31506
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31506.png
+
+newmtl tex31507
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31507.png
+
+newmtl tex31508
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31508.png
+
+newmtl tex31509
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31509.png
+
+newmtl tex31510
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31510.png
+
+newmtl tex31511
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31511.png
+
+newmtl tex31512
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31512.png
+
+newmtl tex31513
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31513.png
+
+newmtl tex31514
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31514.png
+
+newmtl tex31515
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31515.png
+
+newmtl tex31516
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31516.png
+
+newmtl tex31517
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31517.png
+
+newmtl tex31518
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31518.png
+
+newmtl tex31519
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31519.png
+
+newmtl tex31520
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31520.png
+
+newmtl tex31521
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31521.png
+
+newmtl tex31522
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31522.png
+
+newmtl tex31523
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31523.png
+
+newmtl tex31524
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31524.png
+
+newmtl tex31525
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31525.png
+
+newmtl tex31526
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31526.png
+
+newmtl tex31527
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31527.png
+
+newmtl tex31528
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31528.png
+
+newmtl tex31587
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31587.png
+
+newmtl front_ob
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd front_ob.jpg
+
+newmtl front_00
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd front_00.jpg
+
+newmtl Luftbild
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd Luftbild.jpg
+
+newmtl back
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd back.jpg
+
+newmtl front
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd front.jpg
+
+newmtl ost_west
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ost_west.jpg
+
+newmtl tex31529
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31529.png
+
+newmtl Luftbi00
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd Luftbi00.jpg
+
+newmtl seite
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd seite.jpg
+
+newmtl seite01
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd seite01.jpg
+
+newmtl tex31530
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31530.png
+
+newmtl tex31531
+Kd 1 1 1
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd tex31531.png
+
